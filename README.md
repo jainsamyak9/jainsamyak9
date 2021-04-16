@@ -6,7 +6,7 @@ A CS student at [Chandigarh University](https://www.cuchd.in/). Dream to be a <b
 <!-- Competitive coder [@KIIT_ACM](https://www.linkedin.com/in/kiit-acm-4514351ba/). -->
 Love to solve complex things in simple ways.
 
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/jainsamyak9/jainsamyak9/hi.gif" width="230px" />
+  <img align="left" alt="GIF" src="https://github.com/jainsamyak9/jainsamyak9/blob/main/hi%20.gif" width="230px" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsamyak9&theme=dark&show_icons=true">
 
 
