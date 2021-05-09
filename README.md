@@ -48,7 +48,7 @@ Love to solve complex things in simple ways.
 - 👨🏻‍💻I do competitive programming and love ML, DL and DS.
 - 🤝Ask anything, would love to help if I can.
 - 🏢Available for Internships.
-- 📝Resume -> <a href="https://drive.google.com/file/d/1MLrSZK0UcV5VCm1n3-H-f0WNzl0DnOnz/view?usp=sharing"><img align="center" alt="Samyak's Resume" width="35px" src="Assets/resume.png" /></a>
+- 📝Resume -> <a href="https://drive.google.com/file/d/1MLrSZK0UcV5VCm1n3-H-f0WNzl0DnOnz/view?usp=sharing"><img align="center" alt="Samyak's Resume" width="35px" src="Assets/resume.png" /></a><br>
  📝My Website -> <a href="https://nerdprojects.in/"><img align="center" alt="Hamdan's Resume" width="35px" src="website.jpg" /></a> 
 <hr>
 
